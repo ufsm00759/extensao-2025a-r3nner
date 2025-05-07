@@ -1,0 +1,11 @@
+#Observações e Experiências da Aula dia 14/03 - André Renner
+
+
+No dia 14/03 às 13 horas e 30 minutos, fui para minha primeira aula da Disciplina. Nela fui acolhido por meus colegas em uma roda de conversas e conscientizado sobre o que a disciplina oferecia ao longo do semestre. Além disso, participei de uma dinâmica para integração, a qual deveria me apresentar por meio de uma caricatura no quadro de aula, instigando as habilidades criativas e inteligência emocional, relacionando-se diretamente à autoestima. Me senti empolgado em poder me representar diante de toda a turma, foi algo que instigou meu protagonismo. Depois disso, alguns alunos trouxeram uma breve análise do livro de LISBÔA FILHO, F. F. Extensão Universitária: Gestão, Comunicação e Desenvolvimento Regional. Santa Maria: FACOS-UFSM, 2023, em que houve uma discussão sobre o que seria a extensão ao longo da história e como ela se relaciona na computação. 
+Achei muito interessante os 5 I's da extensão, pois consegue descrever o seu propósito e é útil para guiar o desenvolvimento de projetos e ideias que surgirem (1.Interação Dialógica. 2.Interdisciplinalidade e Interprofissionalidade. 3.Indissociabilidade Ensino – Pesquisa - Extensão. 4. Impacto na Formação do Estudante. 5. Impacto e Trasnformação Social). Após as apresentações, a professora Andrea deu exemplos de práticas extensionistas já realizadas na UFSM: Flores para Todos e Phenoglad; e esclareceu como foi o processo de realização dos projetos, já que auxiliou no seu desenvolvimento.
+
+##Aprendizados:
+
+Integrei-me mais ativamente no grupo da turma, tive maior clareza no que se referem às práticas extensionistas e seu crucial papel no desenvolvimento social ao longo das décadas, indaguei-me no que estaria em maior alcance para eu realizar e também participar do movimento extensionista dentro da Universidade, mas não cheguei a uma conclusão, apenas imaginei que gostaria de atuar em alguma área em que educo e não apenas entrego algo. Compreendi o motivo da inclusão de horas obrigatórias de extensão na ementa do curso.
+
+
