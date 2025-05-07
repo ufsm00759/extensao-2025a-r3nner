@@ -1,10 +1,9 @@
-# extensao-2025a-r3nner
-extensao-2025a-r3nner created by GitHub Classroom
+# extensao-2025a-André Renner
+extensao-2025a-André Renner created by GitHub Classroom
 
 UFSM
 
 André Paulo Streck Renner - Ciêmcia da Computação - 202410708
-
 Práticas Extensionistas na Educação em Computação - UFSM00759
 
 A disciplina visa contemplar diversas áreas da extensão. Compreender o propósito das atividades extensionistas e suas associações com o ensino e a pesquisa,
