@@ -51,6 +51,60 @@ A etapa seguinte consistiu na formalização da proposta. Criamos um documento i
 
 ---
 
+## Detalhamento do Projeto: PlanejAção — Organização, Planejamento e Bem-Estar para Universitários
+
+**Visão Geral**
+
+O **PlanejAção** foi um evento extensionista de natureza interdisciplinar, voltado ao público universitário, com o objetivo de promover o desenvolvimento pessoal e acadêmico por meio de práticas de organização, planejamento e bem-estar. A proposta central foi criar um espaço de reflexão e acolhimento, onde os participantes pudessem repensar suas rotinas, aprender ferramentas de planejamento pessoal e desenvolver estratégias para uma vida universitária mais equilibrada e produtiva.
+
+Durante o encontro, foram abordados temas como motivação, propósito, rotina, disciplina e saúde mental, promovendo a conscientização sobre a importância do autoconhecimento e da gestão do tempo. A atividade buscou proporcionar aos participantes ferramentas práticas e espaço de troca de experiências para enfrentarem os desafios cotidianos do ambiente acadêmico.
+
+---
+
+**Justificativa**
+
+A iniciativa nasceu da constatação de que muitos estudantes enfrentam desafios como:
+
+- Falta de organização e gestão do tempo;
+- Ausência de motivação e clareza de propósito;
+- Sobrecarga de atividades e pressão por desempenho;
+- Ansiedade e frustração frente às demandas acadêmicas.
+
+O **PlanejAção** surge, assim, como uma resposta concreta a essas dificuldades, oferecendo:
+
+- Ferramentas digitais (como **Trello** e **Notion**) para planejamento e organização pessoal;
+- Estratégias de autoconhecimento, disciplina e produtividade;
+- Um ambiente seguro e acolhedor para troca de experiências e construção de hábitos saudáveis.
+
+---
+
+**Programação do Evento**
+
+| Etapa              | Atividade                     | Descrição                                                                                  |
+|--------------------|-------------------------------|--------------------------------------------------------------------------------------------|
+| 1. Abertura        | Palestra: Motivação & Saúde Mental | Ministrada pelo psicólogo Renato Favarin (CAEd/UFSM) com foco nos desafios da vida universitária |
+| 2. Oficinas Práticas | Ferramentas de Organização     | Apresentação ao uso de Trello e Notion com apoio da equipe organizadora            |
+| 3. Integração      | Networking & Coffee Break       | Espaço de socialização e troca de experiências em ambiente descontraído e acolhedor        |
+
+---
+
+**Informações Gerais**
+
+- **Local:** Centro de Tecnologia (CT) da UFSM — Sala Inovadora e Laboratórios de Informática  
+- **Formato:** Encontro único, presencial, com duração aproximada de 2 a 3 horas  
+- **Data:** 11 de junho de 2025  
+- **Horário:** Início às 19h00  
+
+---
+
+**Equipe Organizadora**
+
+- **Coordenação Geral:** Prof.ª Andrea Schwertner Charão (UFSM)  
+- **Equipe de Planejamento e Execução:** Alunos de graduação — André Paulo Streck Renner, Mariana Ciervo Borges e Laura Ferreira  
+- **Convidado Especial:** Psicólogo Renato Favarin (CRP 07/13998) — Coordenadoria de Ações Educacionais (CAEd/UFSM)
+
+---
+
 ## Parcerias e Exploração Interdisciplinar
 
 ### Setor de Apoio Pedagógico (SAP/CT)
